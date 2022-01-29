@@ -53,11 +53,11 @@ namakontak2 = 'Andrii Street Moonshine'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By Andrii Street Moonshine' // ganti aja
-global.author = 'Andrii Street Moonshine' // ganti aja
+global.packname = 'By Hanz' // ganti aja
+global.author = 'By Hanz' // ganti aja
 
 //yyy
-bc = 'RFK' //ANDRIIxBOTZ Broadcast
+bc = 'RFK' //HanzBotZ Broadcast
 footer = '\n©HanzBotZ'
 namabot = 'HanzBOTZ'
 namalu = 'Hanz'
